@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "npx serve . -l $PORT"
+    "start": "npx serve . -1 $PORT"
   },
   "dependencies": {
     "serve": "^14.2.4"
